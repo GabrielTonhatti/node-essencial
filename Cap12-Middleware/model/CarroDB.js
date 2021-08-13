@@ -136,5 +136,5 @@ class CarroDB {
         // Fecha a conexão
         connection.end();
     }
-};
+}
 module.exports = CarroDB;
