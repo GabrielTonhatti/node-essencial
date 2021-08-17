@@ -5,3 +5,4 @@ node_modules
 new_user_credentials.csv
 new_user_credentials.txt
 s3.js
+estudos-aws_accessKeys.csv
