@@ -1,0 +1,170 @@
+[
+  {
+    "_id": {
+      "$oid": "611c10cd69d791666e81ae76"
+    },
+    "nome": "Carro 2",
+    "tipo": "esportivos"
+  },
+  {
+    "_id": {
+      "$oid": "611c10d569d791666e81ae77"
+    },
+    "nome": "Carro 3",
+    "tipo": "esportivos"
+  },
+  {
+    "_id": {
+      "$oid": "611c32906e8e4fc281702744"
+    },
+    "nome": "Novo Carro",
+    "tipo": "esportivos"
+  },
+  {
+    "_id": {
+      "$oid": "611c3a40d1ed05b3982db060"
+    },
+    "nome": "Chevrolet Corvette",
+    "tipo": "classicos"
+  },
+  {
+    "_id": {
+      "$oid": "611c3a40d1ed05b3982db061"
+    },
+    "nome": "Chevrolet Impala Coupe",
+    "tipo": "classicos"
+  },
+  {
+    "_id": {
+      "$oid": "611c3a40d1ed05b3982db062"
+    },
+    "nome": "Cadillac Deville Convertible",
+    "tipo": "classicos"
+  },
+  {
+    "_id": {
+      "$oid": "611c3a40d1ed05b3982db063"
+    },
+    "nome": "Chevrolet Bel-Air",
+    "tipo": "classicos"
+  },
+  {
+    "_id": {
+      "$oid": "611c3a40d1ed05b3982db064"
+    },
+    "nome": "Cadillac Eldorado",
+    "tipo": "classicos"
+  },
+  {
+    "_id": {
+      "$oid": "611c3a40d1ed05b3982db065"
+    },
+    "nome": "Ferrari 250 GTO",
+    "tipo": "classicos"
+  },
+  {
+    "_id": {
+      "$oid": "611c3a40d1ed05b3982db066"
+    },
+    "nome": "Dodge Challenger",
+    "tipo": "classicos"
+  },
+  {
+    "_id": {
+      "$oid": "611c3a40d1ed05b3982db067"
+    },
+    "nome": "Camaro SS 1969",
+    "tipo": "classicos"
+  },
+  {
+    "_id": {
+      "$oid": "611c3a40d1ed05b3982db068"
+    },
+    "nome": "Ford Mustang 1976",
+    "tipo": "classicos"
+  },
+  {
+    "_id": {
+      "$oid": "611c3a40d1ed05b3982db069"
+    },
+    "nome": "Ferrari FF",
+    "tipo": "esportivos"
+  },
+  {
+    "_id": {
+      "$oid": "611c3a40d1ed05b3982db06a"
+    },
+    "nome": "AUDI GT Spyder",
+    "tipo": "esportivos"
+  },
+  {
+    "_id": {
+      "$oid": "611c3a8ed1ed05b3982db06b"
+    },
+    "nome": "Bugatti Veyron",
+    "tipo": "luxo"
+  },
+  {
+    "_id": {
+      "$oid": "611c3a8ed1ed05b3982db06c"
+    },
+    "nome": "Ferrari Enzo",
+    "tipo": "luxo"
+  },
+  {
+    "_id": {
+      "$oid": "611c3a8ed1ed05b3982db06d"
+    },
+    "nome": "Lamborghini Reventon",
+    "tipo": "luxo"
+  },
+  {
+    "_id": {
+      "$oid": "611c3a8ed1ed05b3982db06e"
+    },
+    "nome": "Leblanc Mirabeau",
+    "tipo": "luxo"
+  },
+  {
+    "_id": {
+      "$oid": "611c3a8ed1ed05b3982db06f"
+    },
+    "nome": "Shelby Supercars Ultimate",
+    "tipo": "luxo"
+  },
+  {
+    "_id": {
+      "$oid": "611c3a8ed1ed05b3982db070"
+    },
+    "nome": "Pagani Zonda",
+    "tipo": "luxo"
+  },
+  {
+    "_id": {
+      "$oid": "611c3a8ed1ed05b3982db071"
+    },
+    "nome": "Koenigsegg CCX",
+    "tipo": "luxo"
+  },
+  {
+    "_id": {
+      "$oid": "611c3a8ed1ed05b3982db072"
+    },
+    "nome": "Mercedes SLR McLaren",
+    "tipo": "luxo"
+  },
+  {
+    "_id": {
+      "$oid": "611c3a8ed1ed05b3982db073"
+    },
+    "nome": "Rolls Royce Phantom",
+    "tipo": "luxo"
+  },
+  {
+    "_id": {
+      "$oid": "611c3a8ed1ed05b3982db074"
+    },
+    "nome": "Lexus LFA",
+    "tipo": "luxo"
+  }
+]
