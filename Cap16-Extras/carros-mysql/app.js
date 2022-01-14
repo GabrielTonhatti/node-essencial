@@ -16,7 +16,7 @@ let config = require('config');
 // Para ativar a segurança Basic Auth, descomente
 app.use(basicAuth({
     users: config.get('basicAuth')
-}))
+}));
 
 // middleware para interceptar a request e mostrar a data atual
 app.use(function (req, res, next) {

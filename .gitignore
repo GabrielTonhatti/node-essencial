@@ -4,5 +4,5 @@ node_modules
 .idea
 new_user_credentials.csv
 new_user_credentials.txt
-s3.js
+.env
 estudos-aws_accessKeys.csv
